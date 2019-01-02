@@ -45,7 +45,7 @@
                     <div class="row">
                         <div class="col-md-3 center">
                             <div class="login-box">
-                                <a href="<?php echo base_url()?>apanel/index" class="logo-name text-lg text-center">Merry City School Login</a>
+                                <a href="<?php echo base_url()?>apanel/index" class="logo-name text-lg text-center">Blossom Academic School</a>
                                 <p class="text-center m-t-md">Please login into your account.</p>
                                 <form class="m-t-md" action="<?php echo base_url()?>login/login_check" method="post">
                                     <div class="form-group">
