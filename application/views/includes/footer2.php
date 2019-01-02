@@ -65,8 +65,12 @@ a.main {
                         
 						<div id="footer-bottom-wrapper">
 							<div id="footer-bottom">
-									<p class="copyrights">Â© Copyright 2012. All Rights Reserved by Blossom Academic School.</p>
-									 
+									<span class="copyrights">Â© Copyright 2012. All Rights Reserved by Blossom Academic School.</span>
+
+									<div style="float:right;">
+                                      <span style="font-size:20px;">Site Visitors:</span> 
+                                      <span style="font-size:32px; " ><?php echo $this->count_visitor;?></span> 
+                                    </div>
 		                    </div><!-- footer-bottom -->
 						</div>
                         

@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'http://blossomacademic.in/';
+$config['base_url'] = 'http://localhost/blossomacademic.in/';
 
 /*
 |--------------------------------------------------------------------------

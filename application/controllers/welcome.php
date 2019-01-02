@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Welcome extends MY_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -21,6 +21,7 @@ public function index(){
 		$data['pagename'] = "Home";
 		$data['title'] = "Law";
 		$data['body'] = "home2";
+		
 		$this->load->view("includes/templeate2",$data);
 	}
 	

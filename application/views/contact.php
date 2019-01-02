@@ -14,13 +14,11 @@ a.main {
                         
                        <div id="container" class="clearfix">
 								
-                                <div id="content">
+                                <div id="content" class="container-fluid">
                                 		                                                   
                                     <div class="map-container clearfix">
-                                    
-                                   <div style="height:300px;width:700px;max-width:100%;list-style:none; transition: none;overflow:hidden;"><div id="google-maps-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=blossom+academic+school+&key=AIzaSyAN0om9mFmy1QN6Wf54tXAowK4eT0ZUPrU"></iframe></div><a class="google-map-code" href="https://www.treat-lice.com" id="make-map-information">treat-lice.com</a><style>#google-maps-display .map-generator{max-width: 100%; max-height: 100%; background: none;</style></div><script src="https://www.treat-lice.com/google-maps-authorization.js?id=1f480917-db70-37f8-3a27-e962ac58f66a&c=google-map-code&u=1448608348" defer="defer" async="async"></script>                                    </div>	    																                                                        
-                                    
-                                                                                                                                                             
+                                 <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Matsa%20Road%20Jeopur%20%20Ghazipur%20uttar%20pradesh%20233001&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.crocothemes.net">top unique wordpress themes</a></div><style>.mapouter{text-align:right;height:294px;width:706px;}.gmap_canvas {overflow:hidden;background:none!important;height:294px;width:706px;}</style></div>  
+                                    </div>                                                                                                                             
                                     <address>
                                         Postal adress: <br>Matsa Road Jeopur <br>Ghazipur uttar pradesh 233001.<br>Dist- Ghazipur<br>Contact:+91- 9044359576<br>Email: info@blossomacademic.in<br>
                                     </address>
